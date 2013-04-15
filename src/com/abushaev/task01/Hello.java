@@ -12,6 +12,6 @@ import java.util.Properties;
 public class Hello {
 
     public static final void main(String[] arg){
-        System.out.println("Привет ми р!");
+        System.out.println("Привет мир!");
     }
 }
